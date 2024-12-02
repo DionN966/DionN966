@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DionN966
-- 👀 I’m interested in ...basketball,football,walking ect.
+- 👀 I’m interested in ...basketball,football ect.
 - 🌱 I’m currently learning ...how to program
 
 <!---
