@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DionN966
+- 👋 Hi, I’m Dion
 - 👀 I’m interested in ...basketball,football ect.
 - 🌱 I’m currently learning ...how to program
 
